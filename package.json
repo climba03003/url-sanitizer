@@ -10,9 +10,7 @@
   "author": "KaKa",
   "license": "MIT",
   "devDependencies": {
+    "standard": "^16.0.4",
     "tap": "^15.0.10"
-  },
-  "dependencies": {
-    "standard": "^16.0.4"
   }
 }
